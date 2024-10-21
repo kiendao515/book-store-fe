@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { LoginScreen } from "./Auth/screens/Login";
+import { LoginScreen } from "./Auth/screens/LoginScreen";
 
 export const AppContainer = () => {
   return (
